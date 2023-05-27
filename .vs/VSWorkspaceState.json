@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\admin\\assets",
+    "\\public\\admin\\assets\\css",
+    "\\public\\home",
+    "\\public\\home\\css",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\admin",
+    "\\resources\\views\\home"
+  ],
+  "SelectedNode": "\\resources\\views\\home\\slider.blade.php",
+  "PreviewInSolutionExplorer": false
+}
